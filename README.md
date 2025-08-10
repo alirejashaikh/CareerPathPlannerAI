@@ -15,5 +15,5 @@ This project is a .NET 8 web API that provides AI-driven career path analysis an
 - QuestPDF for PDF generation
 - Swagger/OpenAPI for API documentation
 
-**How to run**
--Add your gemini api key in appsettings.json file and run the application
+**How to run:**
+- Add your gemini api key in appsettings.json file and run the application
